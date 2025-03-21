@@ -2,7 +2,7 @@
 
 Enchante is a comprehensive modular penetration testing framework designed for CTF competitions and security assessments. The name comes from the French word "enchanté" (meaning "enchanted" or "pleased to meet you"), reflecting the framework's elegant approach to security testing.
 
-![Enchante Logo](https://via.placeholder.com/800x200?text=Enchantures
+![Enchante Logo](https://placehold.co/800x200?text=Enchante)
 
 - **Modular Architecture**: Easily extend with custom modules
 - **Tool Integration**: Seamless integration with popular security tools (nmap, gobuster, nikto, etc.)
