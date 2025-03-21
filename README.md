@@ -24,7 +24,7 @@ Enchante is a comprehensive modular penetration testing framework designed for C
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/enchante.git
+git clone https://github.com/cleeryy/enchante.git
 cd enchante
 
 # Install the package in development mode
