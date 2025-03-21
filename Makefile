@@ -5,7 +5,7 @@ setup:
 	pip install pytest pytest-cov
 
 test:
-	pytest
+	python -m pytest
 
 test-cov:
 	pytest --cov=enchante tests/
